@@ -14,7 +14,7 @@ const projects = [
     description: 'A collection of UI/UX designs that showcase my creativity and problem-solving skills.',
     image: `${import.meta.env.BASE_URL}/images/indentify_screenshot.png`,
     tags: ['Figma', 'Adobe Photoshop', 'Adobe Illustrator'],
-    link: 'https://behnace.net/somraj'
+    link: 'https://www.behance.net/somraj'
   },
   // {
   //   title: '_indentify',
