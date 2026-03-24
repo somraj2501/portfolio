@@ -10,11 +10,11 @@ const projects = [
     link: 'https://indentify-app.vercel.app/'
   },
   {
-    title: 'UI/UX Designs',
-    description: 'A collection of UI/UX designs that showcase my creativity and problem-solving skills.',
+    title: '10 Shades of UI',
+    description: '“10 Shades of UI” is a self-initiated challenge where I designed multiple UI concepts to improve my fundamentals and consistency. It highlights my growth in visual design and UX through progressively refined interfaces across 10 tasks.',
     image: `${import.meta.env.BASE_URL}/images/indentify_screenshot.png`,
     tags: ['Figma', 'Adobe Photoshop', 'Adobe Illustrator'],
-    link: 'https://www.behance.net/somraj'
+    link: 'https://somraj.notion.site/10-Shades-of-UI-1725733a9e984b0784e1c37fd0f0e2f2'
   },
   // {
   //   title: '_indentify',
