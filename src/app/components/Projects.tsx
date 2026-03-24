@@ -10,19 +10,19 @@ const projects = [
     link: 'https://indentify-app.vercel.app/'
   },
   {
-    title: '_indentify',
-    description: 'An AI-powered code formatter that uses Google\'s Gemini API to detect, clean, and format messy code snippets instantly — with automatic language detection and snippet history.',
+    title: 'UI/UX Designs',
+    description: 'A collection of UI/UX designs that showcase my creativity and problem-solving skills.',
     image: `${import.meta.env.BASE_URL}/images/indentify_screenshot.png`,
-    tags: ['React.js', 'Next.js', 'Gemini AI', 'MongoDB', 'Express', 'Tailwind'],
-    link: 'https://indentify-app.vercel.app/'
+    tags: ['Figma', 'Adobe Photoshop', 'Adobe Illustrator'],
+    link: 'https://behnace.net/somraj'
   },
-  {
-    title: '_indentify',
-    description: 'An AI-powered code formatter that uses Google\'s Gemini API to detect, clean, and format messy code snippets instantly — with automatic language detection and snippet history.',
-    image: `${import.meta.env.BASE_URL}/images/indentify_screenshot.png`,
-    tags: ['React.js', 'Next.js', 'Gemini AI', 'MongoDB', 'Express', 'Tailwind'],
-    link: 'https://indentify-app.vercel.app/'
-  },
+  // {
+  //   title: '_indentify',
+  //   description: 'An AI-powered code formatter that uses Google\'s Gemini API to detect, clean, and format messy code snippets instantly — with automatic language detection and snippet history.',
+  //   image: `${import.meta.env.BASE_URL}/images/indentify_screenshot.png`,
+  //   tags: ['React.js', 'Next.js', 'Gemini AI', 'MongoDB', 'Express', 'Tailwind'],
+  //   link: 'https://indentify-app.vercel.app/'
+  // },
 ];
 
 export function Projects() {
